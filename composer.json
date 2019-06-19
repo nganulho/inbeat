@@ -1,0 +1,20 @@
+{
+    "name": "3rd-nbc/the-inbetween-season-1-episode-3-tv-streaming",
+    "description": "Watch The InBetween Season 1 Episode 3 Online Free putlocker S01e03 WATCH FULL EPISODES HERE (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["The InBetween Season 1 Episode 3 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/OmB59376tz",
+            "homepage": "https://t.co/OmB59376tz",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
